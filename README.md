@@ -1,5 +1,5 @@
 # project-wolf-os
-a simple os for terminal/linux,  write and based on c++  actual version -0.0.0
+a simple os for terminal/linux,  write and based on c++  actual version 0.0.0
 
 
 
