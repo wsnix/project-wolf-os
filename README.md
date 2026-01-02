@@ -1,7 +1,7 @@
 # project-wolf-os
 english:
 
-a simple os for terminal/linux,  write and based on c++  actual version w-a0.0.0
+a simple os for terminal/linux,  write and based on c++  actual version w-a0.0.2
 
 
 
@@ -42,5 +42,23 @@ la idea central es crear un os exclusivamente para terminal con uan interfaz de 
 
 
 
-<img width="600" height="600" alt="ascii-art" src="https://github.com/user-attachments/assets/1e33439c-1bfa-4d60-9c85-3a43035fd024" />
-
+                               MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMMMMMMMMMMWNXWMWMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMMMMMMMMMWOlxWWN00WMMMMMMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMMMMMMMWXd',dkdc:kNMMMMMMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMMMMMWNO:..''...,kWWMMMWMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMMMWWXd'.........;dKWMMMMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMWWKd;..........,,';kWWWMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMWNk;............;ll::dO0KXNWMMWMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMW0;.....................',:xNWWMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMKc........................,ONWWMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMWkc:'...................,co0WWWWMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMWNNK:.........',cxOOkdoxKWMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMMWx'.';'....dXNWMMMWWMMMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMMWKc'dXd'..'xWWMMMMMWMMMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMMWWOONWNOo;':d0WMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMMMMMMMMMMWNKOk0WMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                               MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
